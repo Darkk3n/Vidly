@@ -644,9 +644,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\DevExtensions\DevExtensions\DevExtensions.csproj">
+    <ProjectReference Include="..\..\DevExtensions\Darkk3nDevs.DevExtensions\Darkk3nDevs.DevExtensions.csproj">
       <Project>{0179bffb-39df-4da9-b499-3afa6a3ffd49}</Project>
-      <Name>DevExtensions</Name>
+      <Name>Darkk3nDevs.DevExtensions</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

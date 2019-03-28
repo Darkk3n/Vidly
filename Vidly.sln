@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.106
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vidly", "Vidly\Vidly.csproj", "{AF8AAEF6-1837-42A1-AB82-5123F2666499}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darkk3nDevs.DevExtensions", "..\..\DevExtensions\Darkk3nDevs.DevExtensions\Darkk3nDevs.DevExtensions.csproj", "{0179BFFB-39DF-4DA9-B499-3AFA6A3FFD49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darkk3nDevs.DevExtensions", "..\DevExtensions\Darkk3nDevs.DevExtensions\Darkk3nDevs.DevExtensions.csproj", "{0179BFFB-39DF-4DA9-B499-3AFA6A3FFD49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,17 +27,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C4BB169D-1FD5-4578-9C64-3189C2F493DC}
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://darkk3ndev.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Vidly\\Vidly.csproj
-		SccProjectName1 = Vidly
-		SccLocalPath1 = Vidly
-		SccProjectUniqueName2 = ..\\..\\DevExtensions\\DevExtensions\\DevExtensions.csproj
-		SccProjectName2 = ../../DevExtensions/DevExtensions
-		SccLocalPath2 = ..\\..\\DevExtensions\\DevExtensions
 	EndGlobalSection
 EndGlobal
